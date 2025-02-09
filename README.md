@@ -193,6 +193,38 @@ To assemble the **Spike-Prime-Rubiks-Cube-Solver**, follow the detailed **LEGO-s
 👉 [Building Instructions (PDF)](https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Building%20Instructions.pdf)  
 
 ---
+## 💻 Software  
 
+This section provides an overview of the available **code versions** for the Spike-Prime-Rubiks-Cube-Solver. Different versions were created to explore various programming approaches and solving methods.  
+
+---
+
+### 📝 **Available Code Versions**  
+
+Below are the different versions of the software, each with a brief description and a direct link to the corresponding file:  
+
+#### **1️⃣ Basic Functions (Code Blocks)**  
+📄 **File:** [Basic Movement Functions (Code Blocks)](https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Basic%20Movement%20%20functions%20code%20blocks.llsp3)  
+💡 **Description:** This version contains the **fundamental movement functions**, programmed using **LEGO Spike Prime code blocks**.  
+
+---
+
+#### **2️⃣ Basic Functions (Python)**  
+📄 **File:** [Basic Movements (Python)](https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Basic%20Movements%20python%20code.llsp3)  
+💡 **Description:** This version also includes the **basic movement functions**, but it is programmed using **Python** instead of code blocks. Additionally, it implements **Rubik’s Cube notation movements (e.g., R, L, U, D, F, B)**.  
+
+---
+
+#### **3️⃣ Attempt at the Beginner’s Method**  
+📄 **File:** [Beginner’s Method Attempt](https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/try%20of%20the%20beginners%20method.llsp3)  
+💡 **Description:** This version is an **initial attempt** at implementing the **Beginner’s Method** for solving a Rubik’s Cube.  
+
+---
+
+#### **4️⃣ White Cross Extension**  
+📄 **File:** [Extending the White Cross](https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Projekt%205.llsp3)  
+💡 **Description:** This version extends the basic **white cross formation**, a crucial step in solving the Rubik’s Cube.  
+
+---
 
 
