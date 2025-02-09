@@ -60,6 +60,7 @@ Download the project files using Git:
 ```sh
 git clone https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver.git
 cd Spike-Prime-Rubiks-Cube-Solver
+```
 ---
 ### **3️⃣ Basic Usage**
 Once installed, follow these steps to test the setup:
