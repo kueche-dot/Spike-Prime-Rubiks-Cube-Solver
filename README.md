@@ -88,7 +88,7 @@ This section provides useful references and materials related to the **Spike-Pri
 ---
 ## 💡 Ideas and Development  
 
-### 🔹 Why did you start this project?  
+### 🔹 Why did we start this project?  
 As part of a **university seminar**, we were given the challenge of using the **LEGO Spike Prime** set to build a **robot capable of solving a task**. After brainstorming different possibilities, we decided to take on the challenge of designing a robot that could solve a **Rubik’s Cube**.  
 
 ---
@@ -98,12 +98,12 @@ The primary goal of this project was to develop a **fully functional Rubik’s C
 
 ---
 
-### 🔹 What were your first ideas about how to solve the problem?  
+### 🔹 What were our first ideas about how to solve the problem?  
 Initially, we focused on designing a **compact robot** that could perform the essential functions required to manipulate and solve a Rubik’s Cube. Our priority was **mechanical design**, ensuring that the robot had the necessary movements to interact with the cube effectively. At this stage, we did not yet consider the **software aspect** in depth, as our primary concern was creating a structure capable of handling the cube efficiently.  
 
 ---
 
-### 🔹 How did you design the robot? (Mechanical structure, motor placement, etc.)  
+### 🔹 How did we design the robot? (Mechanical structure, motor placement, etc.)  
 Our approach was based on **analyzing how humans solve a Rubik’s Cube**. We studied **videos** of people solving the cube and carefully observed the movements required to rotate and manipulate the sides. We then broke these motions down into their most fundamental components and designed our robot to **replicate them in the simplest possible way**.  
 
 One of the biggest challenges was ensuring that the **mechanical design** remained **compact and functional** while still allowing for the necessary **cube manipulations**. The placement of the **motors** and **grippers** was carefully adjusted to ensure that the robot could hold and rotate the cube without requiring excessive space.  
@@ -117,12 +117,12 @@ Another important decision was to **keep the robot’s design as modular as poss
 
 ---
 
-### 🔹 Did you create prototypes before settling on the final version?  
+### 🔹 Did we create prototypes before settling on the final version?  
 Since we had a **limited time frame** for the project, we did not create multiple prototypes. Instead, our current version **is the prototype**, as we continuously improved and refined the design throughout the development process. Our focus was on **iterative improvements**, adjusting the design and functionality based on test results rather than building entirely new versions.  
 
 ---
 
-### 🔹 What coding approaches or algorithms did you try?  
+### 🔹 What coding approaches or algorithms did we try?  
 We made **several attempts** to develop a functional code for our robot. These different coding trials can be found in the **(insert branch name here)** branch of our repository. However, since we entered this project **without any programming experience**, we faced significant challenges in developing a working solution.  
 
 To aid our learning process, we studied existing Rubik’s Cube-solving robots, such as **[MindCuber](https://mindcuber.com)**, and examined the **algorithms listed in the [Resources](#resources) section**. Unfortunately, we were unable to fully implement a solution within our time constraints.  
@@ -133,7 +133,7 @@ We experimented with multiple solving **algorithms** but struggled with **adapti
 
 ## 🔄 Challenges & Iterations  
 
-### 🔹 What problems did you face during development?  
+### 🔹 What problems did we face during development?  
 Throughout development, we encountered **several key challenges**:  
 1. **Motor Accuracy Issues** – Over time, we noticed a **decline in precision**, which affected the cube’s rotation accuracy.  
 2. **Lack of Programming Experience** – Since none of us had previous coding experience, learning to write functional and efficient code was a major hurdle.  
@@ -143,14 +143,14 @@ These challenges required constant problem-solving and adaptation to keep the pr
 
 ---
 
-### 🔹 How did your initial ideas change over time?  
-While our **core concept remained the same**, we had to **adjust our goals** as we progressed. Initially, we had hoped to create a **fully autonomous** cube-solving robot. However, due to **time constraints and programming difficulties**, we had to **scale down our expectations** and focus on **mechanical reliability first**.  
+### 🔹 How did our initial ideas change over time?  
+While our **core concept remained the same**, we had to **adjust our goals** as we progressed. Initially, we had hoped to create a **fully autonomous** cube-solving robot. However, due to **time constraints and programming difficulties**, we had to **scale down our expectations** and focus on **mechanical reliability first**.   
 
 Instead of achieving a **fully functional solver**, we shifted towards **building a stable mechanical foundation** that could serve as a base for future improvements.  
 
 ---
 
-### 🔹 Did you remove or simplify any features due to limitations?  
+### 🔹 Did we remove or simplify any features due to limitations?  
 Given our constraints, we had to **simplify the code** and focus on **mechanical precision**. While our robot has all the necessary **physical functions to solve the cube**, the software is still incomplete. The missing piece is a **fully implemented solving algorithm**, which we hope to develop in the future.  
 
 ---
