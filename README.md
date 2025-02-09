@@ -226,6 +226,39 @@ Below are the different versions of the software, each with a brief description 
 📄 **File:** [Extending the White Cross](https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Code/extended%20white%20cross.llsp3)  
 💡 **Description:** This version extends the basic **white cross formation**, a crucial step in solving the Rubik’s Cube.  
 
+
+
+## 📸 Demo / Screenshots
+
+During the development of the **Spike-Prime-Rubiks-Cube-Solver**, we explored various designs for the **grabbing mechanism** to securely hold and manipulate the Rubik’s Cube. Below are some images of our initial attempts:  
+
+<p align="center">
+  <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0000.jpg" width="300">
+  <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0001.jpg" width="300">
+  <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0002.jpg" width="300">
+</p>
+
+<p align="center">
+  <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0003.jpg" width="300">
+  <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0004.jpg" width="300">
+  <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0005.jpg" width="300">
+</p>
+
+<p align="center">
+  <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0006.jpg" width="300">
+  <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0007.jpg" width="300">
+</p>
+
+### 🔹 **Observations from the Design Process**  
+- The **gripping mechanism needed precise control** to avoid damaging the cube.  
+- We tested **different approaches** to find the right balance between **stability and flexibility**.  
+- **Adjustments in motor positioning** were required to ensure accurate grabbing and releasing of the cube.  
+
+
+
+
+
+
 ---
 ## 🤝 Contributing  
 
