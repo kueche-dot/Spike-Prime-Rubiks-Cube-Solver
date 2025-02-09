@@ -226,5 +226,44 @@ Below are the different versions of the software, each with a brief description 
 💡 **Description:** This version extends the basic **white cross formation**, a crucial step in solving the Rubik’s Cube.  
 
 ---
+## 🤝 Contributing  
 
+We **welcome contributions** to improve the **Spike-Prime-Rubiks-Cube-Solver**! Whether it’s fixing a bug, adding a feature, or improving documentation or finishing the code😁  **your help is greatly appreciated!** 🚀  
+
+---
+
+### 🔹 **How to Contribute**  
+
+1️⃣ **Fork the Repository**  
+Click the **Fork** button at the top of this repository to create your own copy.  
+
+2️⃣ **Clone Your Forked Repository**  
+```sh
+git clone https://github.com/your-username/Spike-Prime-Rubiks-Cube-Solver.git
+cd Spike-Prime-Rubiks-Cube-Solver
+```
+3️⃣ **Create a New Branch**
+```sh
+git checkout -b feature-branch-name
+```
+
+4️⃣ **Make Your Changes**
+🔹Edit the files and implement your improvements.
+🔹Test your changes to make sure everything works.
+
+5️⃣ **Commit Your Changes**
+```sh
+git add .
+git commit -m "Brief description of changes"
+```
+6️⃣ **Push to GitHub**
+```sh
+git push origin feature-branch-name
+```
+
+7️⃣ **Submit a Pull Request (PR)**
+<br>🔹Go to the original repository on GitHub.<br>
+🔹Click “Compare & pull request”.<br>
+🔹Add a clear title and description of your changes.<br>
+🔹Click “Create pull request” and wait for review. 🎉<br>
 
