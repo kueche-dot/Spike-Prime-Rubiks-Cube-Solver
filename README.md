@@ -185,7 +185,14 @@ We have exciting plans for the next iteration of our robot, including:
 These additions will bring us **closer to a fully autonomous Rubik’s Cube solver**.  
 
 ---
+## 🔨 Build Instructions  
 
+To assemble the **Spike-Prime-Rubiks-Cube-Solver**, follow the detailed **LEGO-style building instructions** provided in the PDF below.  
+
+📄 **Download the full step-by-step build guide:**  
+👉 [Building Instructions (PDF)](https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Building%20Instructions.pdf)  
+
+---
 
 
 
