@@ -249,6 +249,13 @@ During the development of the **Spike-Prime-Rubiks-Cube-Solver**, we explored va
   <img src="https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/IMG-20250209-WA0007.jpg" width="300">
 </p>
 
+
+## 📹 Robot in Action  
+
+Watch the **Spike-Prime-Rubiks-Cube-Solver** in action! Click the thumbnail below to view the video:  
+
+[![Robot Solving a Cube](https://img.youtube.com/vi/Y_E2VXqjoBQ/maxresdefault.jpg)](https://youtu.be/Y_E2VXqjoBQ)
+
 ### 🔹 **Observations from the Design Process**  
 - The **gripping mechanism needed precise control** to avoid damaging the cube.  
 - We tested **different approaches** to find the right balance between **stability and flexibility**.  
