@@ -65,10 +65,10 @@ cd Spike-Prime-Rubiks-Cube-Solver
 ### **3️⃣ Basic Usage**
 Once installed, follow these steps to test the setup:
 
-    1. Place the 5.5 cm Rubik`s Cube  with the daisy pattern on top into the robot
-    2. Run the code on the Lego Spike Prime Hub
-    3. Check if the color sensor correctly recognizes the cube's colors
-    4. Ensure the robot begins scanning and moving as expected
+  1. Place the 5.5 cm Rubik`s Cube  with the daisy pattern on top into the robot
+  2. Run the code on the Lego Spike Prime Hub
+  3. Check if the color sensor correctly recognizes the cube's colors
+  4. Ensure the robot begins scanning and moving as expected
 ---
 
 
