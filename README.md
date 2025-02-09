@@ -20,20 +20,6 @@ This document outlines our approach to developing a Rubik's Cube solver using Sp
 - [📜 License](#license)  
 
 
-
-
-
-
-ääääää
-ääääääää
-äääääääääää
-äääääääääääääääää
-ääääääääääää
-äääääääääääää
-ääääääääääääääää
-ääääääääääääää
-äääääääääääää
-
 ## 📖 What is it?
 
 The **Spike-Prime-Rubiks-Cube-Solver** is a project aimed at developing a Rubik’s Cube solving robot using LEGO Spike Prime. The goal is to automate the solving process by leveraging Spike Prime’s motors, sensors, and programming capabilities.
