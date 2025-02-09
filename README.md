@@ -50,8 +50,6 @@ Before you start, ensure you have the following:
 
 🔹 **Software Requirements:**  
 - ✅ [LEGO Spike Prime Software](https://education.lego.com/en-us/downloads)  
-- ✅ Python 3.x (if using Python-based programming)  
-- ✅ Required Python libraries (e.g., `spike`, `numpy`, etc.)  
 
 ---
 
@@ -60,7 +58,17 @@ Before you start, ensure you have the following:
 #### **Clone the Repository**  
 Download the project files using Git:  
 ```sh
-git clone https://github.com/your-username/Spike-Prime-Rubiks-Cube-Solver.git
+git clone https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver.git
 cd Spike-Prime-Rubiks-Cube-Solver
+---
+### **3️⃣ Basic Usage**
+Once installed, follow these steps to test the setup:
+
+Run the code on the LEGO Spike Prime Hub
+Place the 5.5 cm Rubik’s Cube with the daisy pattern on top into the robot
+Check if the color sensor correctly recognizes the cube's colors
+Ensure the robot begins scanning and moving as expected
+---
+
 
 
