@@ -250,17 +250,20 @@ During the development of the **Spike-Prime-Rubiks-Cube-Solver**, we explored va
 </p>
 
 
-## 📹 Robot in Action  
-
-Watch the **Spike-Prime-Rubiks-Cube-Solver** in action! Click the thumbnail below to view the video:  
-
-[![Robot Solving a Cube](https://img.youtube.com/vi/Y_E2VXqjoBQ/maxresdefault.jpg)](https://youtu.be/Y_E2VXqjoBQ)
-
 ### 🔹 **Observations from the Design Process**  
 - The **gripping mechanism needed precise control** to avoid damaging the cube.  
 - We tested **different approaches** to find the right balance between **stability and flexibility**.  
 - **Adjustments in motor positioning** were required to ensure accurate grabbing and releasing of the cube.  
 
+## 📹 Robot in Action  
+
+<p align="center">
+  <a href="https://youtu.be/Y_E2VXqjoBQ">
+    <img src="https://img.youtube.com/vi/Y_E2VXqjoBQ/maxresdefault.jpg" width="70%" alt="Spike-Prime Rubik's Cube Solver in Action">
+  </a>
+</p>
+
+🎥 **Click the image above to watch the video!**  
 
 
 
