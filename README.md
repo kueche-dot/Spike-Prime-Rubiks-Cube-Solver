@@ -1,2 +1,2 @@
 # Spike-Prime-Rubiks-Cube-Solver
-Attempt of a rubiks cube solver
+This document outlines our approach to developing a Rubik's Cube solver using Spike Prime. While the project is not yet where we would like it to be, we want to share our process, thoughts, and results.
