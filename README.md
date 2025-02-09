@@ -26,3 +26,36 @@ The **Spike-Prime-Rubiks-Cube-Solver** is a project aimed at developing a Rubik�
 
 🔹 **Why share it?**  
 Even though it’s incomplete, we want to document our journey, share our thoughts, and provide insights into our approach. By doing so, we hope to inspire others, receive feedback, and contribute to the community of robotics and puzzle-solving enthusiasts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test
+[🚀 Getting Started](#-getting-started) 
