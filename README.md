@@ -14,7 +14,6 @@ This document outlines our approach to developing a Rubik's Cube solver using Sp
 - [📸 Demo / Screenshots](#demo--screenshots)   
 - [🤝 Contributing](#contributing)  
 - [🎖 Acknowledgments](#acknowledgments)  
-- [📜 License](#license)  
 
 
 ## 📖 What is it?
@@ -267,4 +266,20 @@ git push origin feature-branch-name
 🔹Click “Compare & pull request”.<br>
 🔹Add a clear title and description of your changes.<br>
 🔹Click “Create pull request” and wait for review. 🎉<br>
+
+## 🎖 Acknowledgments  
+
+We would like to express our gratitude to the following individuals and resources that helped make this project possible:  
+
+### 🔹 Team Members  
+- **[Peter]**  
+- **[Raphael]** 
+- **[Marius]** 
+### 🔹 Mentors & Advisors  
+- **[Dr.-Ing. Giuseppe Sanseverino]** – For guidance and support during the university seminar.  
+
+### 🔹 External Projects & Inspiration  
+- **[MindCuber](https://mindcuber.com/)** – For providing insight into existing Rubik’s Cube solvers.  
+- **[Kociemba’s Algorithm](https://kociemba.org/cube.htm)** – A key reference for solving strategies.  
+- **Various YouTube tutorials** on Rubik’s Cube solving techniques.  
 
