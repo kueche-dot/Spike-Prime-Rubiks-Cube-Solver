@@ -29,24 +29,38 @@ The **Spike-Prime-Rubiks-Cube-Solver** is a project aimed at developing a Rubik�
 🔹 **Why share it?**  
 Even though it’s incomplete, we want to document our journey, share our thoughts, and provide insights into our approach. By doing so, we hope to inspire others, receive feedback, and contribute to the community of robotics and puzzle-solving enthusiasts.
 
-## 🚀 Getting Started
-This section will help you set up and run the Spike-Prime-Rubiks-Cube-Solver.
+## 🚀 Getting Started  
 
-1️⃣ Prerequisites
-Before you start, ensure you have the following:
+This section will help you **set up and run** the Spike-Prime-Rubiks-Cube-Solver.  
 
-🔹 Hardware Requirements:
-    ✅ LEGO Spike Prime Kit (with motors & sensors)
-    ✅ Rubik's Cube (5.5 cm on each side)
-    ✅ A computer with LEGO Spike App installed
-    ✅ USB cable or Bluetooth connection
-    
-🔹 Cube Specifications:
-    The robot is designed for a 5.5 cm (55 mm) Rubik’s Cube
-    The cube uses colors that the LEGO Spike Prime color sensor can recognize (typically white, yellow, red, blue, green, and orange)
+---
 
-🔹 Software Requirements:
-    ✅ LEGO Spike Prime Software
+### **1️⃣ Prerequisites**  
+Before you start, ensure you have the following:  
 
-2️⃣ Installation Instructions
+🔹 **Hardware Requirements:**  
+- ✅ **LEGO Spike Prime Kit** (with motors & sensors)  
+- ✅ **Rubik's Cube** (5.5 cm on each side)  
+- ✅ **A computer with LEGO Spike App installed**  
+- ✅ **USB cable or Bluetooth connection**  
+
+🔹 **Cube Specifications:**  
+- The robot is designed for a **5.5 cm (55 mm) Rubik’s Cube**  
+- The cube uses **colors that the LEGO Spike Prime color sensor can recognize** (typically **white, yellow, red, blue, green, and orange**)  
+
+🔹 **Software Requirements:**  
+- ✅ [LEGO Spike Prime Software](https://education.lego.com/en-us/downloads)  
+- ✅ Python 3.x (if using Python-based programming)  
+- ✅ Required Python libraries (e.g., `spike`, `numpy`, etc.)  
+
+---
+
+### **2️⃣ Installation Instructions**  
+
+#### **Clone the Repository**  
+Download the project files using Git:  
+```sh
+git clone https://github.com/your-username/Spike-Prime-Rubiks-Cube-Solver.git
+cd Spike-Prime-Rubiks-Cube-Solver
+
 
