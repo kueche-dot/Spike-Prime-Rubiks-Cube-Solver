@@ -1,6 +1,7 @@
 # Spike-Prime-Rubiks-Cube-Solver
 This document outlines our approach to developing a Rubik's Cube solver using Spike Prime. While the project is not yet where we would like it to be, we want to share our process, thoughts, and results.
 
+[Assembling Animation](https://github.com/kueche-dot/Spike-Prime-Rubiks-Cube-Solver/blob/main/Pictures/Bot_2.gif)
 ## 📌 Table of Contents  
 - [📖 What is it?](#what-is-it)  
 - [🚀 Getting Started](#getting-started)  
