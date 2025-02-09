@@ -70,5 +70,26 @@ Once installed, follow these steps to test the setup:
   3. Check if the color sensor correctly recognizes the cube's colors
   4. Ensure the robot begins scanning and moving as expected
 ---
+## 📚 Resources  
+
+This section provides useful references and materials related to the **Spike-Prime-Rubiks-Cube-Solver** project.
+
+### 🔹 **1. Official Documentation & Tools**  
+- 📌 [LEGO Spike Prime Official Documentation](https://education.lego.com/en-us/downloads)  
+- 📌 [LEGO Spike Prime API Reference](https://lego.github.io/lego-spike-python/)  
+- 📌 [Python for LEGO Spike Prime (Spike API)](https://github.com/lego/lego-spike-python)  
+
+### 🔹 **2. Rubik's Cube Solving Algorithms**  
+- 🧩 [Beginner’s Method for Solving a Rubik’s Cube](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/)  (we started with this)
+- 🔢 [CFOP Method (Advanced Solving)](https://www.cubeskills.com/tutorials/advanced-f2l)  
+- 🤖 [Kociemba’s Two-Phase Algorithm](https://kociemba.org/cube.htm) (Used in many automated solvers)  
+
+
+### **Why These Resources?**  
+- ✅ **LEGO Spike Prime Documentation** helps in understanding the hardware and API.  
+- ✅ **Solving Algorithms** provide the logic needed for programming the solver.  
+
+---
+
 
 
